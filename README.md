@@ -1,4 +1,4 @@
-# wyy-demo
+# music-demo
 
 ## Project setup
 ```
